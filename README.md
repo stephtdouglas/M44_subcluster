@@ -8,7 +8,7 @@ Cool Stars 20 Hack Day project attempting to identify the subcluster in M44 that
 Contributors:
 - Stephanie T. Douglas
 - Earl P. Bellinger
-- Poshih Ching
+- Poshih Chiang
 - Martin Nielsen
 - Danny M. Krolikowski
 - Kim Ward-Duong
